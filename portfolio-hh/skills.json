@@ -79,9 +79,9 @@
         }
     ],
 
-    "Devops and Version Control": [
+    "Devops, Version Control and Cloud Platform": [
         {
-          "name": "Git / Github / Gitlab",
+          "name": "Git",
           "experience_since": "01-01-2022"
         },
         {
@@ -89,7 +89,27 @@
         },
         {
           "name": "Amazon Web Services (AWS)"
+        },
+        },
+        {
+          "name": "Gaphna (Loki)"
         }
+    ],
+
+    "Soft Skills": [
+
+        {
+          "name": "Presentation"
+        },
+
+        {
+          "name": "Documentation"
+        },
+
+        {
+          "name": "Public Speaking"
+        }
+      
     ]
   
   }
