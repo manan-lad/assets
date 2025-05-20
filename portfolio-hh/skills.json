@@ -1,0 +1,52 @@
+{
+  "skills": [
+
+    "Programing Languages": [
+      {
+        "name": "Python",
+        "experience_since": "01-01-2022"
+      },
+      {
+        "name": "Java"
+      },
+      {
+        "name": "Java Script",
+        "experience_since": "01-01-2022"
+      }
+    ],
+
+    "Database": [
+        {
+          "name": "MYSQL",
+          "experience_since": "01-01-2022"
+        },
+        {
+          "name": "MongoDB",
+          "experience_since": "01-01-2022"
+        },
+        {
+          "name": "PostgreSQL",
+          "experience_since": "01-01-2022"
+        }
+    ],
+    
+    "Tools and Frameworks": [
+        {
+          "name": "Django",
+          "experience_since": "01-01-2022"
+        },
+        {
+          "name": "Flask",
+          "experience_since": "01-01-2022"
+        },
+        {
+          "name": "Django Rest Framework",
+          "experience_since": "01-01-2022"
+        },
+        {
+          "name": "Gemini",
+          "experience_since": "01-01-2022"
+        }
+    ]
+    
+}
