@@ -1,5 +1,5 @@
 {
-  "skills": [
+  "skills": {
 
     "Programing Languages": [
       {
@@ -47,6 +47,6 @@
           "name": "Gemini",
           "experience_since": "01-01-2022"
         }
-    ]
+    }
     
 }
