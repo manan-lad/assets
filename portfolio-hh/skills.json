@@ -44,8 +44,51 @@
           "experience_since": "01-01-2022"
         },
         {
+          "name": "Matplotlib"
+        },
+        {
+          "name": "Pandas",
+          "experience_since": "01-01-2022"
+        }
+    ],
+
+    "AI Tools and Technologies": [
+        {
           "name": "Gemini",
           "experience_since": "01-01-2022"
+        },
+        {
+          "name": "Chat-GPT"
+        },
+        {
+          "name": "Vercel (V0-dev)",
+          "experience_since": "01-01-2024"
+        },
+        {
+          "name": "Lovable",
+          "experience_since": "01-01-2025"
+        },
+        {
+          "name": "Tensorflow"
+        },
+        {
+          "name": "Keras"
+        },
+        {
+          "name": "Transformers"
+        }
+    ],
+
+    "Devops and Version Control": [
+        {
+          "name": "Git / Github / Gitlab",
+          "experience_since": "01-01-2022"
+        },
+        {
+          "name": "Google Cloud Platform (GCP)"
+        },
+        {
+          "name": "Amazon Web Services (AWS)"
         }
     ]
   
