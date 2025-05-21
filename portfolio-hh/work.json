@@ -1,0 +1,16 @@
+{
+  "projects": [
+
+    {
+      "banner": "https://manan-lad.github.io/assets/portfolio-hh/banner/gesture-controlled-vlc.png",
+      "title": "Gesture-Controlled VLC Media Player",
+      "tags": ["Python", "Tensorflow", "VLC", "YOLOv3", "opencv-python"],
+      "about": "I developed a gesture-based control system for VLC Media Player using YOLOv3. The model was trained on two distinct hand gestures, converted to TFLite for efficiency, and integrated into a Python script. This setup enables seamless hands-free playlist navigation, enhancing accessibility and user experience.",
+      "github": "https://github.com/manan-lad/GESTURE_CONTROLLED_VLC_YOLO",
+      "live": null,
+      "blog_name": "gesture-controlled-vlc"
+    }
+    
+  ]
+    
+}
