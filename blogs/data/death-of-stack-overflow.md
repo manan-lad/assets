@@ -12,6 +12,8 @@ Fast forward to 2025, and Stack Overflow is struggling. The number of questions 
 
 ## 2. Rise and Fall: Stack Overflow’s Journey
 
+![Image](https://manan-lad.github.io/assets/blogs/images/death-of-stack-overflow-decline-graph.png)
+
 ### 2.1 The Golden Era
 
 In the early 2010s, Stack Overflow was a **thriving ecosystem**. Developers, both seasoned and new, flocked to the platform to ask questions, share insights, and build their reputation. The **gamified system** encouraged participation—users earned points, badges, and privileges based on their contributions. It was a **meritocracy**, where knowledge was rewarded, and the best answers rose to the top.
