@@ -10,35 +10,18 @@ Stack Overflow was once the **holy grail** of programming knowledge. Launched in
 
 #### Fun Fact: Top 10 Most Upvoted Questions on Stack Overflow
 
-1. **Why is processing a sorted array faster than processing an unsorted array?**  
-   🔗 [View Question](https://stackoverflow.com/questions?tab=votes) 📊 **Votes:** 27,452  
-
-2. **How do I undo the most recent local commits in Git?**  
-   🔗 [View Question](https://stackoverflow.com/questions?tab=votes) 📊 **Votes:** 27,037  
-
-3. **How do I delete a Git branch locally and remotely?**  
-   🔗 [View Question](https://stackoverflow.com/questions?tab=votes) 📊 **Votes:** 20,365  
-
-4. **What is the difference between 'git pull' and 'git fetch'?**  
-   🔗 [View Question](https://stackoverflow.com/questions?tab=votes) 📊 **Votes:** 11,814  
-
-5. **What is the correct JSON content type?**  
-   🔗 [View Question](https://stackoverflow.com/questions?tab=votes) 📊 **Votes:** 10,189  
-
-6. **What does the “yield” keyword do?**  
-   🔗 [View Question](https://stackoverflow.com/questions?tab=votes) 📊 **Votes:** 10,055  
-
-7. **How do I undo 'git add' before commit?**  
-   🔗 [View Question](https://stackoverflow.com/questions?tab=votes) 📊 **Votes:** 8,864  
-
-8. **What is the “-->” operator in C++?**  
-   🔗 [View Question](https://stackoverflow.com/questions?tab=votes) 📊 **Votes:** 8,844  
-
-9. **How do I rename a local Git branch?**  
-   🔗 [View Question](https://stackoverflow.com/questions?tab=votes) 📊 **Votes:** 8,416  
-
-10. **How can I remove a specific item from an array?**  
-    🔗 [View Question](https://stackoverflow.com/questions?tab=votes) 📊 **Votes:** 8,122  
+| Rank | Question | Votes | Answers | Views | Tags |
+|------|---------|-------|---------|-------|------|
+| 1️⃣ | [Why is processing a sorted array faster than processing an unsorted array?](https://stackoverflow.com/q/11227809) | 27,455 | 25 | 1.9M | `java`, `c++`, `performance`, `cpu-architecture`, `branch-prediction` |
+| 2️⃣ | [How do I undo the most recent local commits in Git?](https://stackoverflow.com/q/927358) | 27,040 | 102 | 16.1M | `git`, `version-control`, `git-commit`, `undo` |
+| 3️⃣ | [How do I delete a Git branch locally and remotely?](https://stackoverflow.com/q/2003505) | 20,365 | 41 | 12.8M | `git`, `version-control`, `git-branch`, `git-push`, `git-remote` |
+| 4️⃣ | [What is the difference between 'git pull' and 'git fetch'?](https://stackoverflow.com/q/292357) | 13,990 | 37 | 3.7M | `git`, `version-control`, `git-pull`, `git-fetch` |
+| 5️⃣ | [What does the "yield" keyword do in Python?](https://stackoverflow.com/q/231767) | 13,080 | 52 | 3.4M | `python`, `iterator`, `generator`, `yield` |
+| 6️⃣ | [How can I remove a specific item from an array in JavaScript?](https://stackoverflow.com/q/5767325) | 12,193 | 50 | 13.4M | `javascript`, `arrays` |
+| 7️⃣ | [How can I rename a local Git branch?](https://stackoverflow.com/q/6591213) | 11,926 | 41 | 6.1M | `git`, `version-control`, `git-branch` |
+| 8️⃣ | [Which JSON content type do I use?](https://stackoverflow.com/q/477816) | 11,644 | 39 | 4.0M | `json`, `mime-types`, `content-type` |
+| 9️⃣ | [How do I undo 'git add' before commit?](https://stackoverflow.com/q/348170) | 11,545 | 39 | 6.1M | `git`, `git-commit`, `undo`, `git-add` |
+| 🔟 | [What is the "-->" operator in C/C++?](https://stackoverflow.com/q/1642028) | 10,234 | 26 | 1.0M | `c++`, `c`, `operators`, `code-formatting`, `standards-compliance` |
 
 
 ### Why Its Relevance is in Question
