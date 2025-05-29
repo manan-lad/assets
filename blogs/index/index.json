@@ -1,0 +1,28 @@
+[
+    {
+        "name": "death-of-stack-overflow",
+        "author": "Manan Lad",
+        "author_email": "mananlad38@gmail.com",
+        "created_date": "29-05-2025",
+        "updated_date": null,
+        "tags": [
+            "stack overflow",
+            "ai",
+            "llm"
+        ]
+    },
+    {
+        "name": "gesture-controlled-vlc",
+        "author": "Manan Lad",
+        "author_email": "mananlad38@gmail.com",
+        "created_date": "21-05-2025",
+        "updated_date": null,
+        "tags": [
+            "yolo",
+            "python",
+            "tensorflow lite",
+            "vlc",
+            "opencv-python"
+        ]
+    }
+]
