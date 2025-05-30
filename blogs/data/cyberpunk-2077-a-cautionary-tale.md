@@ -33,6 +33,7 @@ Let me tell you a story! Story about a character, who wanted to leave their lega
     </div>
 </div>
 
+
 <div style="margin: 2rem 0; width: 100%; background-color: #F6E467; border-radius: 10px; overflow: hidden; text-align: center; color: #333">
         <div style="background: linear-gradient(to bottom, rgba(0, 0, 0, 0) 60%, #F6E467 100%), url('https://manan-lad.github.io/assets/blogs/images/cyberpunk-2077-a-cautionary-tale-cyberpsyco.png');
             background-size: cover; background-position: center; height: 40rem;">
@@ -57,17 +58,24 @@ Should AI systems be allowed to evolve independently, or must they always serve 
 
 
 ![jonny silverhand]()
-
 ## The Choice to Rebel
 Citizens of night city face choices that define the future—not just for themselves, but for the city. Do they embrace corporate power, using technology to rise through the ranks? Or do they fight for independence, siding with rogue hackers, outcasts, and rebel factions who dream of tearing the system down?
 
 One of the most striking examples of rebellion is Johnny Silverhand. He attained legendary status for his rebellion against the corporate machine. His history—leading an assault on Arasaka Tower decades ago—reminds night city that resistance comes at a cost. Yet even Johnny, despite his anti-corporate ideals, struggles with his own morality, questioning if he was ever truly a hero or just another pawn in the cycle of destruction.
 
 
-![night city clubs]()
-
-## A Warning Wrapped in Neon
-At its core, Night city is a warning. It paints a future where technology evolves faster than ethics, where corporations own identities, and where the line between human and machine blurs. Night City thrives on contradiction: innovation brings control, freedom breeds chaos, and survival means making impossible choices.
+<div style="margin: 2rem 0; width: 100%; background-color: #F6E467; border-radius: 10px; overflow: hidden; text-align: center; color: #333">
+        <div style="background: linear-gradient(to bottom, rgba(0, 0, 0, 0) 60%, #F6E467 100%), url('https://manan-lad.github.io/assets/blogs/images/cyberpunk-2077-a-cautionary-tale-degradation.png');
+            background-size: cover; background-position: center; height: 40rem;">
+            <img src="https://manan-lad.github.io/assets/blogs/images/cyberpunk-2077-a-cautionary-tale-degradation.png" alt="Scuba Diving" style="width: 100%; height: 100%; object-fit: cover; opacity: 0;">
+        </div>
+        <div style="padding: 20px;">
+            <h2 style="margin: 0; font-size: 24px;">A Warning Wrapped in Neon</h2>
+            <p style="margin: 10px 0; font-size: 14px;">
+                At its core, Night city is a warning. It paints a future where technology evolves faster than ethics, where corporations own identities, and where the line between human and machine blurs. Night City thrives on contradiction: innovation brings control, freedom breeds chaos, and survival means making impossible choices.
+            </p>
+    </div>
+</div>
 
 
 ![Degradation]()
