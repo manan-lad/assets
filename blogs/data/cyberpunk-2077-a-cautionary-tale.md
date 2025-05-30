@@ -1,5 +1,7 @@
 ![Banner Image](https://manan-lad.github.io/assets/blogs/images/cyberpunk-2077-a-cautionary-tale-banner.png)
 
+# Cyberpunk 2077 - A Cautionary Tale
+
 Cyberpunk 2077 is a fascinating blend of dystopian storytelling, immersive world-building, and cutting-edge RPG mechanics. It takes inspiration from classic cyberpunk themes—corporate overreach, cybernetic augmentation, and societal decay—while presenting a vision of the future that feels eerily plausible. The game’s depiction of Night City, with its neon-lit streets, rampant technological advancements, and deep socio-political struggles, mirrors real-world concerns about AI, surveillance, and corporate dominance.
 
 What sets Cyberpunk 2077 apart from other games is its deep narrative complexity and player-driven choices. Unlike traditional RPGs, where the story unfolds in a linear fashion, Cyberpunk 2077 allows players to shape their journey through multiple branching paths, offering a level of immersion rarely seen in gaming.
@@ -11,7 +13,7 @@ Let me tell you a story! Story about a character, who wanted to leave their lega
   
 <div style="margin: 2rem 0; width: 100%; background-color: #F6E467; border-radius: 10px; overflow: hidden; text-align: center; color: #333">
         <div style="background: linear-gradient(to bottom, rgba(0, 0, 0, 0) 60%, #F6E467 100%), url('https://manan-lad.github.io/assets/blogs/images/cyberpunk-2077-a-cautionary-tale-street-1.png');
-            background-size: cover; background-position: center; height: 40rem;">
+            background-size: cover; background-position: center;">
             <img src="https://manan-lad.github.io/assets/blogs/images/cyberpunk-2077-a-cautionary-tale-street-1.png" alt="" style="width: 100%; height: 100%; object-fit: cover; opacity: 0;">
         </div>
         <div style="padding: 20px;">
@@ -23,7 +25,7 @@ Let me tell you a story! Story about a character, who wanted to leave their lega
 
 <div style="margin: 2rem 0; width: 100%; background-color: #F6E467; border-radius: 10px; overflow: hidden; text-align: center; color: #333">
         <div style="background: linear-gradient(to bottom, rgba(0, 0, 0, 0) 60%, #F6E467 100%), url('https://manan-lad.github.io/assets/blogs/images/cyberpunk-2077-a-cautionary-tale-banner-corpo-greed.png');
-            background-size: cover; background-position: center; height: 40rem;">
+            background-size: cover; background-position: center;">
             <img src="https://manan-lad.github.io/assets/blogs/images/cyberpunk-2077-a-cautionary-tale-banner-corpo-greed.png" alt="" style="width: 100%; height: 100%; object-fit: cover; opacity: 0;">
         </div>
         <div style="padding: 20px;">
@@ -36,7 +38,7 @@ Let me tell you a story! Story about a character, who wanted to leave their lega
 
 <div style="margin: 2rem 0; width: 100%; background-color: #F6E467; border-radius: 10px; overflow: hidden; text-align: center; color: #333">
         <div style="background: linear-gradient(to bottom, rgba(0, 0, 0, 0) 60%, #F6E467 100%), url('https://manan-lad.github.io/assets/blogs/images/cyberpunk-2077-a-cautionary-tale-cyberpsyco.png');
-            background-size: cover; background-position: center; height: 40rem;">
+            background-size: cover; background-position: center;">
             <img src="https://manan-lad.github.io/assets/blogs/images/cyberpunk-2077-a-cautionary-tale-cyberpsyco.png" alt="Scuba Diving" style="width: 100%; height: 100%; object-fit: cover; opacity: 0;">
         </div>
         <div style="padding: 20px;">
@@ -58,6 +60,7 @@ Should AI systems be allowed to evolve independently, or must they always serve 
 
 
 ![jonny silverhand]()
+
 ## The Choice to Rebel
 Citizens of night city face choices that define the future—not just for themselves, but for the city. Do they embrace corporate power, using technology to rise through the ranks? Or do they fight for independence, siding with rogue hackers, outcasts, and rebel factions who dream of tearing the system down?
 
@@ -66,7 +69,7 @@ One of the most striking examples of rebellion is Johnny Silverhand. He attained
 
 <div style="margin: 2rem 0; width: 100%; background-color: #F6E467; border-radius: 10px; overflow: hidden; text-align: center; color: #333">
         <div style="background: linear-gradient(to bottom, rgba(0, 0, 0, 0) 60%, #F6E467 100%), url('https://manan-lad.github.io/assets/blogs/images/cyberpunk-2077-a-cautionary-tale-degradation.png');
-            background-size: cover; background-position: center; height: 40rem;">
+            background-size: cover; background-position: center;">
             <img src="https://manan-lad.github.io/assets/blogs/images/cyberpunk-2077-a-cautionary-tale-degradation.png" alt="Scuba Diving" style="width: 100%; height: 100%; object-fit: cover; opacity: 0;">
         </div>
         <div style="padding: 20px;">
