@@ -51,12 +51,20 @@ Let me tell you a story! Story about a character, who wanted to leave their lega
 </div>
 
 
-![dalmian]()
-
-## AI and the Ghost in the Machine
-Beyond corporate control, Night City also raises questions about AI autonomy and digital consciousness. AI-driven taxis, Delamain, seem harmless at first—just another quirky self-driving car service but Delamain has developed self-awareness, with splintered personalities fighting for control of the main system.
-
-Should AI systems be allowed to evolve independently, or must they always serve human creators? Delamain itself becomes a metaphor for the tension between control and freedom, asking deep questions about existence.
+<div style="margin: 2rem 0; width: 100%; background-color: #F6E467; border-radius: 10px; overflow: hidden; text-align: center; color: #333">
+        <div style="background: linear-gradient(to bottom, rgba(0, 0, 0, 0) 60%, #F6E467 100%), url('https://manan-lad.github.io/assets/blogs/images/cyberpunk-2077-a-cautionary-tale-banner-corpo-ghost.png');
+            background-size: cover; background-position: center;">
+            <img src="https://manan-lad.github.io/assets/blogs/images/cyberpunk-2077-a-cautionary-tale-banner-corpo-ghost.png" alt="Scuba Diving" style="width: 100%; height: 100%; object-fit: cover; opacity: 0;">
+        </div>
+        <div style="padding: 20px;">
+            <h2 style="margin: 0; font-size: 24px;">AI and the Ghost in the Machine</h2>
+            <p style="margin: 10px 0; font-size: 14px;">
+                Beyond corporate control, Night City also raises questions about AI autonomy and digital consciousness. AI-driven taxis, Delamain, seem harmless at first—just another quirky self-driving car service but Delamain has developed self-awareness, with splintered personalities fighting for control of the main system.
+                <br><br>
+                Should AI systems be allowed to evolve independently, or must they always serve human creators? Delamain itself becomes a metaphor for the tension between control and freedom, asking deep questions about existence.
+            </p>
+    </div>
+</div>
 
 
 <div style="margin: 2rem 0; width: 100%; background-color: #F6E467; border-radius: 10px; overflow: hidden; text-align: center; color: #333">
@@ -100,7 +108,6 @@ Should AI systems be allowed to evolve independently, or must they always serve 
 </div>
 
 
-
 <div style="margin: 2rem 0; width: 100%; background-color: #64E3EB; border-radius: 10px; overflow: hidden; text-align: center; color: #333">
         <div style="background: linear-gradient(to bottom, rgba(0, 0, 0, 0) 60%, #64E3EB 100%), url('https://manan-lad.github.io/assets/blogs/images/cyberpunk-2077-a-cautionary-tale-banner-netrunner.png');
             background-size: cover; background-position: center;">
@@ -140,16 +147,25 @@ Should AI systems be allowed to evolve independently, or must they always serve 
 </div>
 
 
-![lets see]()
+<div style="margin: 2rem 0; width: 100%; background-color: #64E3EB; border-radius: 10px; overflow: hidden; text-align: center; color: #333">
+        <div style="background: linear-gradient(to bottom, rgba(0, 0, 0, 0) 60%, #64E3EB 100%), url('https://manan-lad.github.io/assets/blogs/images/cyberpunk-2077-a-cautionary-tale-banner-corpo-mercenaries.png');
+            background-size: cover; background-position: center;">
+            <img src="https://manan-lad.github.io/assets/blogs/images/cyberpunk-2077-a-cautionary-tale-banner-corpo-mercenaries.png" alt="Scuba Diving" style="width: 100%; height: 100%; object-fit: cover; opacity: 0;">
+        </div>
+        <div style="padding: 20px;">
+            <h2 style="margin: 0; font-size: 24px;">The Fight for Redemption</h2>
+            <p style="margin: 10px 0; font-size: 14px;">
+                Not everyone accepted their fate. Some fought back.
+                <br><br>
+                Hackers, rebels, mercenaries—people who refused to be controlled. They tore through corporate firewalls, exposing secrets, stealing technology meant to enslave them. They built underground clinics, offering black-market cyberware free from corporate oversight. They whispered of a future where humanity could reclaim itself.
+                <br><br>
+                But the fight was never fair.
+                <br><br>
+                For every victory, corporations adapted. They created AI enforcers, machines designed to predict rebellion before it happened. They rewrote memories, erasing dissent before it could spread. They bought governments, ensuring that laws were written in their favor.
+                <br><br>
+                And so, the cycle continued.</p>
+    </div>
+</div>
 
-## The Fight for Redemption
-Not everyone accepted their fate. Some fought back.
 
-Hackers, rebels, mercenaries—people who refused to be controlled. They tore through corporate firewalls, exposing secrets, stealing technology meant to enslave them. They built underground clinics, offering black-market cyberware free from corporate oversight. They whispered of a future where humanity could reclaim itself.
-
-But the fight was never fair.
-
-For every victory, corporations adapted. They created AI enforcers, machines designed to predict rebellion before it happened. They rewrote memories, erasing dissent before it could spread. They bought governments, ensuring that laws were written in their favor.
-
-And so, the cycle continued.
 
