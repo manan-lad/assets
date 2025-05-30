@@ -182,3 +182,62 @@ Let me tell you a story! Story about a character, who wanted to leave their lega
 </div> -->
 
 
+## The Beginning of a Dream
+V never wanted to be a legend. Legends were the ones who died young, burned out in the chaos of Night City, leaving behind nothing but whispers in the streets. V just wanted to survive—to carve out a life in a city that devoured the weak and spat out the broken.
+
+But Night City had other plans.
+
+It started with Jackie Welles, the brother V never had. A dreamer, a fighter, a man who believed in something bigger than himself. Together, they chased the impossible—a heist that would change their lives forever. They laughed, they planned, they dreamed of a future where they weren’t just pawns in the corporate machine.
+
+Then Jackie died.
+
+V held him in their arms, watching the light fade from his eyes, feeling the weight of a dream shattered beyond repair. And in that moment, something inside V broke. The city had taken its first piece of them, and it wouldn’t be the last.
+
+## The Ghost in Their Mind
+The biochip was supposed to be a prize. Instead, it was a curse. Johnny Silverhand, the anarchist, the rebel, the man who had tried to burn Arasaka to the ground, now lived inside V’s head. His voice, his memories, his rage—it all bled into V’s mind, twisting their thoughts, making them question who they really were.
+
+At first, V fought him. They weren’t Johnny. They weren’t some revolutionary with a vendetta against the world. But as the days passed, as the chip rewrote their brain, V began to wonder—were they still themselves? Or were they becoming something else?
+
+The fear of losing their identity was worse than the fear of death. Every moment, every choice, every breath felt like a countdown to oblivion.
+
+## Friendships and Betrayals
+In the chaos of survival, V found Judy Alvarez, a woman who saw the city for what it was—a machine built to crush souls. She was kind, but broken. She wanted to save people, but Night City didn’t allow saviors. V saw themselves in her—the same desperation, the same need to hold onto something real.
+
+Then there was Panam Palmer, the nomad who refused to be chained by the city’s corruption. She taught V that there was life beyond the neon, beyond the endless cycle of greed and violence. She gave them hope, a glimpse of something better.
+
+But hope was dangerous.
+
+V trusted people. They believed in loyalty, in the idea that maybe, just maybe, they could find something worth fighting for. But Night City thrived on betrayal. Deals went south. Friends turned into enemies. Promises were broken. And every time V lost someone, another piece of their soul was stripped away.
+
+## The Weight of Morality
+V wasn’t a hero. They weren’t a villain. They were just trying to survive. But survival came at a cost.
+
+They killed. They lied. They made choices that haunted them in the quiet moments, when the city was silent and the ghosts of their past whispered in their ears. Was it worth it? Was there still a line between right and wrong, or had they crossed it so many times that it no longer existed?
+
+The worst part was knowing that every choice had consequences. Every life they took, every deal they made, every betrayal they endured—it all led to the same inevitable truth.
+
+There was no escape.
+
+## The Final Choice
+The biochip was killing them. No matter what they did, no matter how hard they fought, the end was coming. And when the moment arrived, V had to decide—fight for a future they might never see, or surrender to the fate that had been written for them the moment they stepped into Night City.
+
+They could burn bright, go out in a blaze of glory, leaving behind a legend that would be whispered in the streets.
+
+Or they could walk away, knowing that survival meant losing everything that made them who they were.
+
+Or they could trust Arasaka, let the corporation strip them of their identity, turn them into something else—something hollow.
+
+No matter the choice, the truth remained: V was never meant to win.
+
+## The Legacy of a Mercenary
+Night City didn’t care about morality. It didn’t care about loyalty, or love, or dreams. It only cared about power. And in the end, V was just another soul swallowed by the machine.
+
+But for a brief moment—for a fleeting, painful, beautiful instant—V lived. They fought. They loved. They lost. And in the end, they left behind something more than just a name.
+
+They left behind a question.
+
+What does it mean to truly live?
+
+And maybe, just maybe, that was enough.
+
+
