@@ -59,12 +59,18 @@ Beyond corporate control, Night City also raises questions about AI autonomy and
 Should AI systems be allowed to evolve independently, or must they always serve human creators? Delamain itself becomes a metaphor for the tension between control and freedom, asking deep questions about existence.
 
 
-![jonny silverhand]()
-
-## The Choice to Rebel
-Citizens of night city face choices that define the future—not just for themselves, but for the city. Do they embrace corporate power, using technology to rise through the ranks? Or do they fight for independence, siding with rogue hackers, outcasts, and rebel factions who dream of tearing the system down?
-
-One of the most striking examples of rebellion is Johnny Silverhand. He attained legendary status for his rebellion against the corporate machine. His history—leading an assault on Arasaka Tower decades ago—reminds night city that resistance comes at a cost. Yet even Johnny, despite his anti-corporate ideals, struggles with his own morality, questioning if he was ever truly a hero or just another pawn in the cycle of destruction.
+<div style="margin: 2rem 0; width: 100%; background-color: #F6E467; border-radius: 10px; overflow: hidden; text-align: center; color: #333">
+        <div style="background: linear-gradient(to bottom, rgba(0, 0, 0, 0) 60%, #F6E467 100%), url('https://manan-lad.github.io/assets/blogs/images/cyberpunk-2077-a-cautionary-tale-banner-jonny.png');
+            background-size: cover; background-position: center;">
+            <img src="https://manan-lad.github.io/assets/blogs/images/cyberpunk-2077-a-cautionary-tale-banner-jonny.png" alt="Scuba Diving" style="width: 100%; height: 100%; object-fit: cover; opacity: 0;">
+        </div>
+        <div style="padding: 20px;">
+            <h2 style="margin: 0; font-size: 24px;">The Choice to Rebel</h2>
+            <p style="margin: 10px 0; font-size: 14px;">
+                Citizens of night city face choices that define the future—not just for themselves, but for the city. Do they embrace corporate power, using technology to rise through the ranks? Or do they fight for independence, siding with rogue hackers, outcasts, and rebel factions who dream of tearing the system down?<br><br>
+                One of the most striking examples of rebellion is Johnny Silverhand. He attained legendary status for his rebellion against the corporate machine. His history—leading an assault on Arasaka Tower decades ago—reminds night city that resistance comes at a cost. Yet even Johnny, despite his anti-corporate ideals, struggles with his own morality, questioning if he was ever truly a hero or just another pawn in the cycle of destruction.</p>
+    </div>
+</div>
 
 
 <div style="margin: 2rem 0; width: 100%; background-color: #F6E467; border-radius: 10px; overflow: hidden; text-align: center; color: #333">
@@ -81,6 +87,53 @@ One of the most striking examples of rebellion is Johnny Silverhand. He attained
 </div>
 
 
-![Degradation]()
+<div style="margin: 2rem 0; width: 100%; background-color: #64E3EB; border-radius: 10px; overflow: hidden; text-align: center; color: #333">
+        <div style="background: linear-gradient(to bottom, rgba(0, 0, 0, 0) 60%, #64E3EB 100%), url('https://manan-lad.github.io/assets/blogs/images/cyberpunk-2077-a-cautionary-tale-banner-humanity-rise.png');
+            background-size: cover; background-position: center;">
+            <img src="https://manan-lad.github.io/assets/blogs/images/cyberpunk-2077-a-cautionary-tale-banner-humanity-rise.png" alt="Scuba Diving" style="width: 100%; height: 100%; object-fit: cover; opacity: 0;">
+        </div>
+        <div style="padding: 20px;">
+            <h2 style="margin: 0; font-size: 24px;">The Rise of Humanity</h2>
+            <p style="margin: 10px 0; font-size: 14px;">
+                Once, humanity dreamed of a future where technology would free them. Where cybernetic enhancements would erase disease, where AI would eliminate poverty, where corporations would build utopias instead of prisons.<br><br>And for a time, it seemed possible.<br><br>The streets of Night City were lined with towering skyscrapers, each promising a better tomorrow. Neural implants allowed people to process information faster than ever before. Braindances, immersive digital experiences, let people relive memories—escape their pain, even if only for a moment. Cyberware turned ordinary people into gods, capable of feats beyond human limitations.<br><br>But progress came at a cost.</p>
+    </div>
+</div>
 
+
+![netrunner]()
+
+## The Fall Begins
+At first, it was subtle. Corporations like Arasaka and Militech promised security, innovation, a future where humanity could thrive. But behind the polished advertisements and sleek technology, greed festered.
+
+Neural implants became mandatory for corporate employees—an easy way to track productivity, monitor thoughts, control dissent.
+
+Braindances, once a tool for entertainment, became a weapon. The rich indulged in fantasies while the poor were forced to relive their worst traumas, sold as cheap entertainment for those who could afford to watch.
+
+Cyberware, once a symbol of human advancement, became a necessity. Without enhancements, people were obsolete—unemployable, forgotten.
+
+And then came the Cyberpsychosis Epidemic.
+
+![police]()
+
+## The Consequences of Greed
+The more people augmented themselves, the more they lost their humanity. The mind could only handle so much metal before it fractured. The streets of Night City became hunting grounds for Cyberpsychos—once ordinary citizens, now mindless killing machines, their humanity stripped away by corporate greed.
+
+The MaxTac police force was created to deal with them. But they weren’t saviors—they were executioners. No trials, no rehabilitation. Just bullets.
+
+And yet, corporations continued to push cyberware. "Upgrade or be left behind," they said. "Enhance yourself or become irrelevant."
+
+People had no choice.
+
+![lets see]()
+
+## The Fight for Redemption
+Not everyone accepted their fate. Some fought back.
+
+Hackers, rebels, mercenaries—people who refused to be controlled. They tore through corporate firewalls, exposing secrets, stealing technology meant to enslave them. They built underground clinics, offering black-market cyberware free from corporate oversight. They whispered of a future where humanity could reclaim itself.
+
+But the fight was never fair.
+
+For every victory, corporations adapted. They created AI enforcers, machines designed to predict rebellion before it happened. They rewrote memories, erasing dissent before it could spread. They bought governments, ensuring that laws were written in their favor.
+
+And so, the cycle continued.
 
