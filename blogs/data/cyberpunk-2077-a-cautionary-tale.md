@@ -169,3 +169,16 @@ Let me tell you a story! Story about a character, who wanted to leave their lega
 
 
 
+<!-- <div style="width: 300px; border-radius: 10px; overflow: hidden; text-align: center; font-family: Arial, sans-serif;">
+    <div style="display: flex; overflow-x: auto; scroll-snap-type: x mandatory;">
+        <img src="../images/cyberpunk-2077-a-cautionary-tale-banner-corpo-ghost.png" style="width: 100%; scroll-snap-align: center;">
+        <img src="../images/cyberpunk-2077-a-cautionary-tale-banner-corpo-ghost.png" style="width: 100%; scroll-snap-align: center;">
+        <img src="../images/cyberpunk-2077-a-cautionary-tale-banner-corpo-ghost.png" style="width: 100%; scroll-snap-align: center;">
+    </div>
+    <div style="padding: 20px;">
+        <h2>Image Gallery</h2>
+        <p>Scroll through the images</p>
+    </div>
+</div> -->
+
+
