@@ -241,3 +241,24 @@ What does it mean to truly live?
 And maybe, just maybe, that was enough.
 
 
+<script src="https://manan-lad.github.io/assets/js/card.js"></script>
+
+<div class="story-card" id="card-2"
+    data-images="https://manan-lad.github.io/assets/blogs/images/cyberpunk-2077-a-cautionary-tale-banner-corpo-mercenaries.png,https://manan-lad.github.io/assets/blogs/images/cyberpunk-2077-a-cautionary-tale-banner-netrunner.png"
+    data-bg-color="#FF6B6B"
+    style="margin: 2rem 0; width: 100%; background-color: #FF6B6B; border-radius: 10px; overflow: hidden; text-align: center; color: #333; position: relative;">
+    <div style="padding: 20px;">
+        <h2 style="margin: 0; font-size: 24px;">Another Story</h2>
+        <p style="margin: 10px 0; font-size: 18px;">
+            This is another example card with different images and colors.
+        </p>
+    </div>
+
+</div>
+
+
+<script>
+    insertCarouselContainer("card-2");
+</script>
+
+
