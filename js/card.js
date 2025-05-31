@@ -6,15 +6,18 @@ class StoryCarousel {
         this.currentIndex = 0;
         this.autoAdvanceInterval = null;
         this.preloadedImages = new Map(); // Cache for loaded images
-        
+        this.setupCardProps();
+        this.init();
+    }
+
+
+    setupCardProps() {
         this.carouselBg = cardElement.querySelector('.carousel-background');
         this.carouselImg = cardElement.querySelector('.carousel-image');
         this.progressBar = cardElement.querySelector('.progress-bar');
         this.prevBtn = cardElement.querySelector('.prev-btn');
         this.nextBtn = cardElement.querySelector('.next-btn');
         this.container = cardElement.querySelector('.carousel-container');
-        
-        this.init();
     }
     
     init() {
@@ -24,6 +27,33 @@ class StoryCarousel {
             this.startAutoAdvance();
         });
     }
+
+    // helper function to keep card clean
+    insertCarouselContainer() {
+
+        if (this.container) { return }
+
+        const div = document.createElement("div");
+        div.classList.add("carousel-container");
+        div.style.position = "relative";
+        div.innerHTML = `
+            <div class="carousel-background" style="background: linear-gradient(to bottom, rgba(0, 0, 0, 0) 60%, #FF6B6B 100%); background-size: cover; background-position: center; transition: background-image 0.8s ease-in-out;">
+                <img class="carousel-image" alt="Story Image" style="width: 100%; height: 100%; object-fit: cover; opacity: 0;">
+            </div>
+            <button class="nav-btn prev-btn" style="position: absolute; top: 50%; left: 15px; transform: translateY(-50%); background: rgba(0, 0, 0, 0.3); border: none; border-radius: 3px; width: 30px; height: 30px; font-size: 16px; cursor: pointer; color: white; opacity: 0; transition: opacity 0.3s ease; display: flex; align-items: center; justify-content: center;">
+                ‹
+            </button>
+            <button class="nav-btn next-btn" style="position: absolute; top: 50%; right: 15px; transform: translateY(-50%); background: rgba(0, 0, 0, 0.3); border: none; border-radius: 3px; width: 30px; height: 30px; font-size: 16px; cursor: pointer; color: white; opacity: 0; transition: opacity 0.3s ease; display: flex; align-items: center; justify-content: center;">
+                ›
+            </button>
+            <div style="position: absolute; bottom: 0; left: 0; width: 100%; height: 3px; background: rgba(255, 255, 255, 0.1);">
+                <div class="progress-bar" style="height: 100%; background: rgba(255, 255, 255, 0.3); width: 50%; transition: width 0.8s ease;"></div>
+            </div>
+        `;
+        this.card.prepend(div);
+        this.setupCardProps();
+    }
+
     
     setupEventListeners() {
         this.prevBtn.addEventListener('click', () => this.prevImage());
