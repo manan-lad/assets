@@ -12,12 +12,12 @@ class StoryCarousel {
 
 
     setupCardProps() {
-        this.carouselBg = cardElement.querySelector('.carousel-background');
-        this.carouselImg = cardElement.querySelector('.carousel-image');
-        this.progressBar = cardElement.querySelector('.progress-bar');
-        this.prevBtn = cardElement.querySelector('.prev-btn');
-        this.nextBtn = cardElement.querySelector('.next-btn');
-        this.container = cardElement.querySelector('.carousel-container');
+        this.carouselBg = this.card.querySelector('.carousel-background');
+        this.carouselImg = this.card.querySelector('.carousel-image');
+        this.progressBar = this.card.querySelector('.progress-bar');
+        this.prevBtn = this.card.querySelector('.prev-btn');
+        this.nextBtn = this.card.querySelector('.next-btn');
+        this.container = this.card.querySelector('.carousel-container');
     }
     
     init() {
@@ -140,6 +140,7 @@ class StoryCarousel {
 // Initialize all story cards
 function initializeStoryCarousels() {
     document.querySelectorAll('.story-card').forEach(card => {
+        console.log(">>", card);
         new StoryCarousel(card);
     });
 }

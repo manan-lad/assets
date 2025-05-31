@@ -241,6 +241,9 @@ What does it mean to truly live?
 And maybe, just maybe, that was enough.
 
 
+<script src="https://manan-lad.github.io/assets/js/card.js"></script>
+
+
 <div class="story-card" id="card-2"
     data-images="https://manan-lad.github.io/assets/blogs/images/cyberpunk-2077-a-cautionary-tale-banner-corpo-mercenaries.png,https://manan-lad.github.io/assets/blogs/images/cyberpunk-2077-a-cautionary-tale-banner-netrunner.png"
     data-bg-color="#FF6B6B"
@@ -253,10 +256,6 @@ And maybe, just maybe, that was enough.
     </div>
 
 </div>
-
-
-<script src="https://manan-lad.github.io/assets/js/card.js"></script>
-
 
 <script>
 </script>
