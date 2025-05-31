@@ -21,6 +21,7 @@ class StoryCarousel {
     }
     
     init() {
+        this.insertCarouselContainer();
         this.setupEventListeners();
         this.preloadImages().then(() => {
             this.updateCarousel();

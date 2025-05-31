@@ -259,7 +259,6 @@ And maybe, just maybe, that was enough.
 
 
 <script>
-    insertCarouselContainer("card-2");
 </script>
 
 
