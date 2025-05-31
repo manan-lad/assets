@@ -18,7 +18,7 @@ Let me tell you a story! Story about a character, who wanted to leave their lega
         </div>
         <div style="padding: 20px;">
             <h2 style="margin: 0; font-size: 24px;">A City of Dreams, Built on Control</h2>
-            <p style="margin: 10px 0; font-size: 14px;">Imagine waking up in a cramped megabuilding apartment, staring out over a city that never sleeps. Hovercars zip through the sky, AI-driven billboards scream tailored ads straight into your retinas, and the streets are alive with cyber-enhanced people chasing glory or just trying to survive. Welcome to Night City—the beating heart of Cyberpunk 2077, where every alley tells a story.</p>
+            <p style="margin: 10px 0; font-size: 18px;">Imagine waking up in a cramped megabuilding apartment, staring out over a city that never sleeps. Hovercars zip through the sky, AI-driven billboards scream tailored ads straight into your retinas, and the streets are alive with cyber-enhanced people chasing glory or just trying to survive. Welcome to Night City—the beating heart of Cyberpunk 2077, where every alley tells a story.</p>
     </div>
 </div>
 
@@ -30,7 +30,7 @@ Let me tell you a story! Story about a character, who wanted to leave their lega
         </div>
         <div style="padding: 20px;">
             <h2 style="margin: 0; font-size: 24px;">Corporate Greed vs. Personal Freedom</h2>
-            <p style="margin: 10px 0; font-size: 14px;">The Arasaka Corporation, a ruthless mega-corporation, wields absolute power over Night City. It promises security, wealth, and even eternal life—but at what cost? Ambitious corpo gets tangled in Arasaka’s web, uncovering secrets that question the very essence of existence. One moment, they’re negotiating deals in high-tech boardrooms; the next, they’re running through dark alleyways, hunted for what they know.<br><br>
+            <p style="margin: 10px 0; font-size: 18px;">The Arasaka Corporation, a ruthless mega-corporation, wields absolute power over Night City. It promises security, wealth, and even eternal life—but at what cost? Ambitious corpo gets tangled in Arasaka’s web, uncovering secrets that question the very essence of existence. One moment, they’re negotiating deals in high-tech boardrooms; the next, they’re running through dark alleyways, hunted for what they know.<br><br>
             Take Saburo Arasaka, the aging patriarch of the corporation. His obsession with power pushes the boundaries of technological ethics—seeking a way to digitally preserve consciousness so that corporate rulers can live forever, puppeteering the world from beyond death. This concept of immortality through AI and cybernetic implants mirrors real-world discussions about transhumanism and what it means to truly live.</p>
     </div>
 </div>
@@ -43,7 +43,7 @@ Let me tell you a story! Story about a character, who wanted to leave their lega
         </div>
         <div style="padding: 20px;">
             <h2 style="margin: 0; font-size: 24px;">Surveillance and Oppression</h2>
-            <p style="margin: 10px 0; font-size: 14px;">
+            <p style="margin: 10px 0; font-size: 18px;">
                 The city is blanketed with military-grade surveillance, ensuring that Arasaka and other corporate overlords maintain their grip. Even the police force bends to the whims of corporations—meaning justice is only for the rich. Walk down the wrong street, and MaxTac, an elite cyberpsychosis response team, might gun down someone who lost their sanity due to excessive cybernetic implants.<br><br>
                 One haunting example is the “Cyberpsycho” phenomenon, where individuals enhance themselves with so much technology that their minds fracture. These broken souls—some once brilliant engineers, loving parents, or idealistic rebels—now reduced to raging husks. It’s a chilling portrayal of how unchecked augmentation can turn people into tools rather than individuals.
             </p>
@@ -58,7 +58,7 @@ Let me tell you a story! Story about a character, who wanted to leave their lega
         </div>
         <div style="padding: 20px;">
             <h2 style="margin: 0; font-size: 24px;">AI and the Ghost in the Machine</h2>
-            <p style="margin: 10px 0; font-size: 14px;">
+            <p style="margin: 10px 0; font-size: 18px;">
                 Beyond corporate control, Night City also raises questions about AI autonomy and digital consciousness. AI-driven taxis, Delamain, seem harmless at first—just another quirky self-driving car service but Delamain has developed self-awareness, with splintered personalities fighting for control of the main system.
                 <br><br>
                 Should AI systems be allowed to evolve independently, or must they always serve human creators? Delamain itself becomes a metaphor for the tension between control and freedom, asking deep questions about existence.
@@ -74,7 +74,7 @@ Let me tell you a story! Story about a character, who wanted to leave their lega
         </div>
         <div style="padding: 20px;">
             <h2 style="margin: 0; font-size: 24px;">The Choice to Rebel</h2>
-            <p style="margin: 10px 0; font-size: 14px;">
+            <p style="margin: 10px 0; font-size: 18px;">
                 Citizens of night city face choices that define the future—not just for themselves, but for the city. Do they embrace corporate power, using technology to rise through the ranks? Or do they fight for independence, siding with rogue hackers, outcasts, and rebel factions who dream of tearing the system down?<br><br>
                 One of the most striking examples of rebellion is Johnny Silverhand. He attained legendary status for his rebellion against the corporate machine. His history—leading an assault on Arasaka Tower decades ago—reminds night city that resistance comes at a cost. Yet even Johnny, despite his anti-corporate ideals, struggles with his own morality, questioning if he was ever truly a hero or just another pawn in the cycle of destruction.</p>
     </div>
@@ -88,7 +88,7 @@ Let me tell you a story! Story about a character, who wanted to leave their lega
         </div>
         <div style="padding: 20px;">
             <h2 style="margin: 0; font-size: 24px;">A Warning Wrapped in Neon</h2>
-            <p style="margin: 10px 0; font-size: 14px;">
+            <p style="margin: 10px 0; font-size: 18px;">
                 At its core, Night city is a warning. It paints a future where technology evolves faster than ethics, where corporations own identities, and where the line between human and machine blurs. Night City thrives on contradiction: innovation brings control, freedom breeds chaos, and survival means making impossible choices.
             </p>
     </div>
@@ -102,7 +102,7 @@ Let me tell you a story! Story about a character, who wanted to leave their lega
         </div>
         <div style="padding: 20px;">
             <h2 style="margin: 0; font-size: 24px;">The Rise of Humanity</h2>
-            <p style="margin: 10px 0; font-size: 14px;">
+            <p style="margin: 10px 0; font-size: 18px;">
                 Once, humanity dreamed of a future where technology would free them. Where cybernetic enhancements would erase disease, where AI would eliminate poverty, where corporations would build utopias instead of prisons.<br><br>And for a time, it seemed possible.<br><br>The streets of Night City were lined with towering skyscrapers, each promising a better tomorrow. Neural implants allowed people to process information faster than ever before. Braindances, immersive digital experiences, let people relive memories—escape their pain, even if only for a moment. Cyberware turned ordinary people into gods, capable of feats beyond human limitations.<br><br>But progress came at a cost.</p>
     </div>
 </div>
@@ -115,7 +115,7 @@ Let me tell you a story! Story about a character, who wanted to leave their lega
         </div>
         <div style="padding: 20px;">
             <h2 style="margin: 0; font-size: 24px;">The Fall Begins</h2>
-            <p style="margin: 10px 0; font-size: 14px;">
+            <p style="margin: 10px 0; font-size: 18px;">
                 At first, it was subtle. Corporations like Arasaka and Militech promised security, innovation, a future where humanity could thrive. But behind the polished advertisements and sleek technology, greed festered<br><br>
                 Neural implants became mandatory for corporate employees—an easy way to track productivity, monitor thoughts, control dissent.
                 <br><br>
@@ -135,7 +135,7 @@ Let me tell you a story! Story about a character, who wanted to leave their lega
         </div>
         <div style="padding: 20px;">
             <h2 style="margin: 0; font-size: 24px;">The Consequences of Greed</h2>
-            <p style="margin: 10px 0; font-size: 14px;">
+            <p style="margin: 10px 0; font-size: 18px;">
                 The more people augmented themselves, the more they lost their humanity. The mind could only handle so much metal before it fractured. The streets of Night City became hunting grounds for Cyberpsychos—once ordinary citizens, now mindless killing machines, their humanity stripped away by corporate greed.
                 <br><br>
                 The MaxTac police force was created to deal with them. But they weren’t saviors—they were executioners. No trials, no rehabilitation. Just bullets.
@@ -154,7 +154,7 @@ Let me tell you a story! Story about a character, who wanted to leave their lega
         </div>
         <div style="padding: 20px;">
             <h2 style="margin: 0; font-size: 24px;">The Fight for Redemption</h2>
-            <p style="margin: 10px 0; font-size: 14px;">
+            <p style="margin: 10px 0; font-size: 18px;">
                 Not everyone accepted their fate. Some fought back.
                 <br><br>
                 Hackers, rebels, mercenaries—people who refused to be controlled. They tore through corporate firewalls, exposing secrets, stealing technology meant to enslave them. They built underground clinics, offering black-market cyberware free from corporate oversight. They whispered of a future where humanity could reclaim itself.
