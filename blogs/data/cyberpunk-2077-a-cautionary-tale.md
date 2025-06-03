@@ -10,7 +10,22 @@ What sets Cyberpunk 2077 apart from other games is its deep narrative complexity
 ![Night City skyline](https://manan-lad.github.io/assets/blogs/images/cyberpunk-2077-a-cautionary-tale-night-city.png)
 
 Let me tell you a story! Story about a character, who wanted to leave their legacy in the distopian oasis of night city. Night City—a glittering hellscape of neon-lit streets and corporate control, where technology gives power and steals humanity at the same time.
-  
+
+<!-- https://manan-lad.github.io/assets/blogs/images/cyberpunk-2077-a-cautionary-tale/ -->
+
+<div class="story-card"
+    data-images="https://manan-lad.github.io/assets/blogs/images/cyberpunk-2077-a-cautionary-tale/img (10).png,https://manan-lad.github.io/assets/blogs/images/cyberpunk-2077-a-cautionary-tale/img (11).png,https://manan-lad.github.io/assets/blogs/images/cyberpunk-2077-a-cautionary-tale/img (9).png,
+    https://manan-lad.github.io/assets/blogs/images/cyberpunk-2077-a-cautionary-tale/img (12).png,https://manan-lad.github.io/assets/blogs/images/cyberpunk-2077-a-cautionary-tale/img (14).png"
+    data-bg-color="#F6E467"
+    style="margin: 2rem 0; width: 100%; background-color: #F6E467; border-radius: 10px; overflow: hidden; text-align: center; color: #333; position: relative;">
+    <div style="padding: 20px;">
+        <h2 style="margin: 0; font-size: 24px;">A City of Dreams, Built on Control</h2>
+        <p style="margin: 10px 0; font-size: 18px;">
+            Imagine waking up in a cramped megabuilding apartment, staring out over a city that never sleeps. Hovercars zip through the sky, AI-driven billboards scream tailored ads straight into your retinas, and the streets are alive with cyber-enhanced people chasing glory or just trying to survive. Welcome to Night City—the beating heart of Cyberpunk 2077, where every alley tells a story.
+        </p>
+    </div>
+</div>
+
 <div style="margin: 2rem 0; width: 100%; background-color: #F6E467; border-radius: 10px; overflow: hidden; text-align: center; color: #333">
         <div style="background: linear-gradient(to bottom, rgba(0, 0, 0, 0) 60%, #F6E467 100%), url('https://manan-lad.github.io/assets/blogs/images/cyberpunk-2077-a-cautionary-tale-street-1.png');
             background-size: cover; background-position: center;">
@@ -244,7 +259,7 @@ And maybe, just maybe, that was enough.
 <script src="https://manan-lad.github.io/assets/js/card.js"></script>
 
 
-<div class="story-card" id="card-2"
+<div class="story-card"
     data-images="https://manan-lad.github.io/assets/blogs/images/cyberpunk-2077-a-cautionary-tale-banner-corpo-mercenaries.png,https://manan-lad.github.io/assets/blogs/images/cyberpunk-2077-a-cautionary-tale-banner-netrunner.png"
     data-bg-color="#FF6B6B"
     style="margin: 2rem 0; width: 100%; background-color: #FF6B6B; border-radius: 10px; overflow: hidden; text-align: center; color: #333; position: relative;">
@@ -254,7 +269,6 @@ And maybe, just maybe, that was enough.
             This is another example card with different images and colors.
         </p>
     </div>
-
 </div>
 
 <script>
