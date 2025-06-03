@@ -38,7 +38,7 @@ class StoryCarousel {
         div.classList.add("carousel-container");
         div.style.position = "relative";
         div.innerHTML = `
-            <div class="carousel-background" style="background: linear-gradient(to bottom, rgba(0, 0, 0, 0) 60%, #FF6B6B 100%); background-size: cover; background-position: center; transition: background-image 0.8s ease-in-out;">
+            <div class="carousel-background" style="background: linear-gradient(to bottom, rgba(0, 0, 0, 0) 60%, ${this.bgColor} 100%); background-size: cover; background-position: center; transition: background-image 0.8s ease-in-out;">
                 <img class="carousel-image" alt="Story Image" style="width: 100%; height: 100%; object-fit: cover; opacity: 0;">
             </div>
             <button class="nav-btn prev-btn" style="position: absolute; top: 50%; left: 15px; transform: translateY(-50%); background: rgba(0, 0, 0, 0.3); border: none; border-radius: 3px; width: 30px; height: 30px; font-size: 16px; cursor: pointer; color: white; opacity: 0; transition: opacity 0.3s ease; display: flex; align-items: center; justify-content: center;">
