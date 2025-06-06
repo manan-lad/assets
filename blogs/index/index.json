@@ -1,5 +1,13 @@
 [
     {
+    	"name": "cyberpunk-2077-a-cautionary-tale",
+    	"author": "Manan Lad",
+    	"author_email": "mananlad38@gmail.com",
+    	"created_date": "30-05-2025",
+    	"updated_date": null,
+    	"tags": ["cyberpunk 2077"]
+    },
+    {
         "name": "death-of-stack-overflow",
         "author": "Manan Lad",
         "author_email": "mananlad38@gmail.com",
