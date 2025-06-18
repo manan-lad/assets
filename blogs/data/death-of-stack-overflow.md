@@ -1,5 +1,3 @@
-<img src="https://manan-lad.github.io/assets/blogs/banner/death-of-stack-overflow.png" alt="Death of Stack Overflow Banner" style="width:100%; height:auto;">
-
 # Death of Stack Overflow
 
 ## 1. Introduction
